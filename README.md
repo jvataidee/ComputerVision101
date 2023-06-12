@@ -1,3 +1,4 @@
+![Project Image](CV101.png)
 # Computer Vision 101 Repository by João Ataíde
 
 João Ataíde is a Data Scientist at Imagem Esri. This repository is dedicated to his practices from the course "Computer Vision 1: Introduction (Python)".
