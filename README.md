@@ -13,6 +13,10 @@ João Ataíde has successfully completed the course and received a certificate. 
 - [`Instagram_filters-project.ipynb`](https://github.com/jvataidee/ComputerVision101/blob/main/Instagram_filters-project.ipynb)
 - [`blemish-project.py`](https://github.com/jvataidee/ComputerVision101/blob/main/blemish-project.py)
 - [`cromakey-project.py`](https://github.com/jvataidee/ComputerVision101/blob/main/cromakey-project.py)
+- [`assigment-QR-Code-Detector.ipynb`](https://github.com/jvataidee/ComputerVision101/blob/main/assigment-QR-Code-Detector.ipynb)
+- [`assigment_featurematching.ipynb`](https://github.com/jvataidee/ComputerVision101/blob/main/cromakey-project.py)
+- [`assigment_panorama.ipynb`](https://github.com/jvataidee/ComputerVision101/blob/main/assigment_panorama.ipynb)
+- [`assignment-autofocus.ipynb`](https://github.com/jvataidee/ComputerVision101/blob/main/assigment_panorama.ipynb)
 
 ## Repository Content
 The repository contains various Jupyter notebooks related to the course.
