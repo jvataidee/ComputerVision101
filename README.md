@@ -21,7 +21,9 @@ João Ataíde has successfully completed the course and received a certificate. 
 - [`scaning-documents_project.py`](https://github.com/jvataidee/ComputerVision101/blob/main/scaning-documents_project.py):In this script, the OpenCV library is utilized for document scanning. The preprocess function takes an image, converts it to grayscale, applies Gaussian blur, and performs Canny edge detection. The find_contour function finds the contour with the largest area from the edges. The four_point_transform function applies a perspective transformation to the image based on the four corner points of the detected contour. The document_scanner function reads an image, preprocesses it, detects the contour, approximates it to obtain the four points, draws the contour and numbered vertices on the original image, and displays it. It also applies the perspective transformation and shows the resulting "Scanned Document" image. Pressing the 'q' key saves the corrected image as "scanned-form-corrected.jpg".
 - [`traking-detection_project.py`](https://github.com/jvataidee/ComputerVision101/blob/main/traking-detection_project.py):This script showcases object detection and tracking using the SSD model in OpenCV. It loads the model, reads a video file, and performs object detection on each frame. The "sports ball" objects are tracked using the CSRT algorithm, and the resulting frames with bounding boxes are displayed and saved to an output video file. The script provides a comprehensive example of combining object detection and tracking for video analysis tasks.
 
-![Demo](https://github.com/jvataidee/ComputerVision101/blob/main/demogif.gif)
+<p align="center">
+  <img src="https://github.com/jvataidee/ComputerVision101/blob/main/demogif.gif" alt="Demo">
+</p>
  
 ## Repository Content
 The repository contains various Jupyter notebooks related to the course.
